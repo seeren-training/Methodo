@@ -7,7 +7,7 @@ ___
 
 ## 📑 Fonctionnelles
 
-Dans un cadre itératif les spécifications peuvent se limiter au backlog product rédigé par un responsable produit. L'étude d'un cadre de travail agile n'est pas notre préocupation actuelle et nous allons synthétiser l'expression du besoin.
+Dans un cadre itératif les spécifications peuvent se limiter au backlog product rédigé par un responsable produit. L'étude d'un cadre de travail agile n'est pas notre préoccupation actuelle et nous allons synthétiser l'expression du besoin.
 
 Avant chaque séquence de développement la demande est complétée et se rédige de façon itérative également.
 
@@ -25,7 +25,7 @@ Une histoire utilisateur est une brèves exigences ou requêtes écrites du poin
 
 ![image](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/03/07-User-Story.jpg)
 
-> Une user story doit être priorisée, évaluée, estimée, un retour sur investissement doit être calculé puis elle doit être découpée en tache, mais ce n'est pas notre préocupation.
+> Une user story doit être priorisée, évaluée, estimée, un retour sur investissement doit être calculé puis elle doit être découpée en tache, mais ce n'est pas notre préoccupation.
 
 ### 🏷️ **Requirements**
 
@@ -33,7 +33,7 @@ Une exigence est quelque chose que le produit doit faire ou une qualité qu'il d
 
 Souhaitant rattacher aux histoires utilisateurs des documents de conception, le requirement diagramme met en relation demande fonctionnelle et les éléments de conception.
 
-![image](./resources/requirement.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/Methodo/master/wiki/resources/requirement.jpg)
 
 ___
 
@@ -41,7 +41,7 @@ ___
 
 Après avoir identifié un responsable du produit, accompagnez le dans la rédaction des histoires utilisateur. L'équipe de développement est responsable de rédiger les diagrammes de contraintes pour l'**Epic et les user stories**. 
 
-> Ce fichier doit être collegial et accessible par tous en modification. Il aura la responsabilité de receptionner les différents diagrammes et les mettre en association avec les contraintes. 
+> Ce fichier doit être collégial et accessible par tous en modification. Il aura la responsabilité de réceptionner les différents diagrammes et les mettre en association avec les contraintes. 
 
 ___
 
@@ -49,7 +49,7 @@ ___
 
 La spécification technique de besoin  est une expression consacrée à indiquer le besoin suivant des critères techniques. La spécification technique vient de manière générale après l'expression fonctionnelle du besoin.
 
-Vous devez détailler language, framework, serveurs, protocols et tout choix techniques appropriés au projet.
+Vous devez détailler langage, framework, serveurs, protocole et tout choix techniques appropriés au projet.
 
 ___
 
@@ -71,7 +71,7 @@ Cet outil est souvent utilisé comme étape préliminaire dans la conception d�
 
 * **Data flow**: Le mouvement des données entre les entités externes, les processus et les magasins de données est représenté par un symbole de flèche, qui indique la direction du flux. Les flux de données d'entrée et de sortie sont étiquetés en fonction du type de données ou de son processus ou magasin de données associé, et ce nom est écrit à côté de la flèche.
 
-![image](./resources/dataflow.png)
+![image](https://raw.githubusercontent.com/seeren-training/Methodo/master/wiki/resources/dataflow.png)
 
 ___
 

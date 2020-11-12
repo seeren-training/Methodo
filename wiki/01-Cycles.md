@@ -10,7 +10,7 @@ ___
 
 👨🏻‍💻 Manipulation
 
-Determinez une thématique de projet à conceptualiser et formez des groupes de 3 personnes maximum. Il est possible que nous exploitions le résulats des différentes manipulations à venir.
+Déterminez une thématique de projet à conceptualiser et formez des groupes de 3 personnes maximum. Il est possible que nous exploitions le résultat des différentes manipulations à venir.
 
 ___
 
@@ -38,15 +38,15 @@ ___
 
 ## 📑 Itératif
 
-Réprésentée avec un cercle proposant une approche itérative, chaque session de travail possède une durée fixe et n'a comme objectif que de fournir un increment, une étape vers le produit livrable.
+Représentée avec un cercle proposant une approche itérative, chaque session de travail possède une durée fixe et n'a comme objectif que de fournir un incrément, une étape vers le produit livrable.
 
 ![image](https://raw.githubusercontent.com/seeren-training/Methodo/master/wiki/resources/cycle-iteratif.jpg)
 
 ### 🏷️ **UML**
 
-Dans ce cadre, l'utilisation d'UML est propre à chaque projet. UML est un langage et pas une méthode, l'utilisation et la hierarchie des diagramme est libre mais peut s'appuyer sur la répartition des diagrammes par vue et par phase d'itération.
+Dans ce cadre, l'utilisation d'UML est propre à chaque projet. UML est un langage et pas une méthode, l'utilisation et la hiérarchie des diagramme est libre mais peut s'appuyer sur la répartition des diagrammes par vue et par phase d'itération.
 
 ![image](https://raw.githubusercontent.com/seeren-training/Methodo/master/wiki/resources/uml-iteratif.jpg)
 
-Nous allons nous apuyer sur des formats complémentaires à UML pour parcourir des étapes de conception dans un cycle itératif.
+Nous allons nous appuyer sur des formats complémentaires à UML pour parcourir des étapes de conception dans un cycle itératif.
 

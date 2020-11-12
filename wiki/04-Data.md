@@ -4,35 +4,32 @@
 * 🔖 **Dictionnaire de données**
 * 🔖 **Diagrammes**
 
+Vos différentes vues filaires vous permettent de mettre en place les règles de gestion.
+
 ___
 
 ## 📑 Règles de gestion
 
-Vos différentes vues filaires vous permettent de mettre en place les règles de gestion.
-
 Les règles métier ou de gestion sont des déclarations de haut niveau structurées qui permettent de contraindre, contrôler et influencer un aspect du métier. Aussi ces dernières peuvent diminuer ou augmenter l'impact de risque, et encore prendre des décisions rationnelles.
 
+> Avant de pouvoir créer votre couche modèle, les règles de gestion vont permettre de déterminer leur structure, type et contraintes sans être orienté par un système précis. Vous devez suivre les étapes suivantes pour les déterminer.
 
-> Avant de pouvoir créer votre couche modèle, les règles de gestion vont permettre de déterminer leur structure, type et contraintes sans être orienté par un système précis.
+### 🏷️ **Déterminer un sujet**
 
-* Determiner un sujet
+* Chaque *Utilisateur*
 
-|Chaque *Utilisateur*|
-|-|
+### 🏷️ **Déterminer sa structure**
 
-* Determiner sa structure
+* Chaque *Utilisateur* possède
+    * Un Email
+    * Un mot de passe
+    * Des messages
 
-|Chaque *Utilisateur* possède
-|-|
-|Un Email|
-|Un mot de passe|
-|Des messages|
-
-* Déterminer ses contraintes
+### 🏷️ **Déterminer ses contraintes**
 
 |Chaque *Utilisateur* possède|Chaque *Utilisateur* peut|
 |-|-|
-|Un Email|Etre identifié par son email|
+|Un Email|Être identifié par son email|
 |Un mot de passe|Se connecter/déconnecter|
 |Des messages| Recevoir/Lire des messages|
 
@@ -40,15 +37,15 @@ ___
 
 👨🏻‍💻 Manipulation
 
-De façon collégiale, rédigez vos règles de gestion dans un fichier dédié, en dehors de votre outil UML.
+De façon collégiale, rédigez vos règles de gestion en commentaire markdown dans un diagramme d'entité.
 
 ___
 
 ## 📑 Dictionnaire de données
 
-Vos règles de gestion ont determinée des sujets qui deviennent des tables, des attributs qui devienennt des colonnes et des contraintes qui deviennent des tailles, type, options et clefs.
+Vos règles de gestion ont déterminé des sujets qui deviennent des tables, des attributs qui deviennent des colonnes et des contraintes qui deviennent des tailles, type, options et clefs.
 
-Vous devez préciser les colonnes suivantes pour chaque sujet.
+> Vous devez préciser les colonnes suivantes pour chaque sujet.
 
 |Nom|Type|Taille|Contrainte|Calcul|
 |-|-|-|-|-|
@@ -60,16 +57,26 @@ Vous devez préciser les colonnes suivantes pour chaque sujet.
 
 ___
 
+👨🏻‍💻 Manipulation
+
+De façon collégiale, rédigez votre dictionnaire de données.
+
+___
+
 ## 📑 Diagrammes
 
 Les prochaines étapes correspondent à créer le Model Conceptuel de Données sur lequel nous passons.
 
-L'Entity Diagram puis enfin le diagramme de classe en ne représentant pas les tables intéermédiaires complètent l'analyse du besoin et son les premiers éléments conceptuels.
+<img src="./resources/entity.png" align="left" width="50%"/>
+
+<img src="./resources/entity.png" align="left" width="50%"/>
+
+L'Entity Diagram puis enfin le diagramme de classe en ne représentant pas les tables intermédiaires complètent l'analyse du besoin et son les premiers éléments conceptuels.
 
 ___
 
 👨🏻‍💻 Manipulation
 
-Pendant que le dicitionnaire de donnée est créée, créez en parralèle le diagramme d'entité puis enfin le diagamme de classe.
+Pendant que le dictionnaire de donnée est créée, créez en parallèle le diagramme d'entité puis enfin le diagramme de classe.
 
 ___

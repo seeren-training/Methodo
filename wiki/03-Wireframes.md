@@ -16,19 +16,21 @@ ___
 
 Créez un diagramme de cas d'utilisation pour chaque histoire utilisateur de façon individuelle.
 
-> Exportez les en **fragment** et importez les pour les mettre en relation avec le diagramme de contrainte pour chaque fonctionnalité.
+> Exportez les en **fragment** et importez les pour les mettre en relation avec le diagramme de contrainte pour chaque histoire utilisateur.
 
 ___
 
 ## 📑 Wireframes
 
-Plus parlant qu'un diagramme et plus en rapport avec une expérience utilisateur, la vue filaire correspond à la description visuelle d'un écran d'affichage et ses éléments d'intéraction.
+Plus parlant qu'un diagramme et plus en rapport avec une expérience utilisateur, la vue filaire correspond à la description visuelle d'un écran d'affichage et ses éléments d’interaction.
 
 L'objectif d'une wireframe n'est pas d'exposer la charte graphique, les images de fonds et l'identité visuelle de la frame.
 
-Il existe de nombreux outils gratuit, en client lour ou leger. Je vous conseille pour sa gratuité et sa simplicité le logiciel Pencil: https://pencil.evolus.vn/
+Il existe de nombreux outils gratuit, en client lourd ou léger. Je vous conseille pour sa gratuité et sa simplicité le logiciel Pencil.
 
-![image](./resources/pencil.png)
+> https://pencil.evolus.vn/
+
+![image](https://raw.githubusercontent.com/seeren-training/Methodo/master/wiki/resources/pencil.png)
 
 ___
 
@@ -49,23 +51,23 @@ ___
 
 👨🏻‍💻 Manipulation
 
-Réunisez les wireframes sur une page et mettez les en relation de façon collégiale.
+Réunissez les wireframes sur une page et mettez les en relation de façon collégiale.
 
 ___
 
 ### 🏷️ **Flow Chart**
 
-Pour normer la mise en relation des frames et posséder une overview reliée aux wireframes il est résonnable de conclure par un diagramme de navigation.
+Pour normer la mise en relation des frames et posséder une overview reliée aux wireframes il est raisonnable de conclure par un diagramme de navigation.
 
-Il n'existe pas de diagrammes de navigation en UML, nous allons utiliser le flow chart diagram pour cette représentation.
+Il n'existe pas de diagrammes de navigation en UML, nous allons utiliser le flow chart diagramme pour cette représentation.
 
-![image](./resources/flowchart.png)
+![image](https://raw.githubusercontent.com/seeren-training/Methodo/master/wiki/resources/flowchart.png)
 
 ___
 
 👨🏻‍💻 Manipulation
 
-Créez votre flow chart diagram de façon collégiale, reliez le à votre diagramme de contraintes et reliez chaque wireframe avec l'outil link au flow chart diagram.
+Créez votre flow chart diagramme de façon collégiale, reliez le à votre diagramme de contraintes et reliez chaque wireframe au flow chart diagramme avec link.
 
 ___
 
