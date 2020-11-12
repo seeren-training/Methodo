@@ -15,6 +15,5 @@ ___
 * [Spécifications](https://github.com/seeren-training/Methodo/wiki/02)
 * [Wireframes](https://github.com/seeren-training/Methodo/wiki/03)
 * [Datas](https://github.com/seeren-training/Methodo/wiki/04)
-* [Diagrams](https://github.com/seeren-training/Methodo/wiki/05)
 
 ___

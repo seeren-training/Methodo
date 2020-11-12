@@ -71,7 +71,7 @@ Les prochaines étapes correspondent à créer le Model Conceptuel de Données s
 
 <img src="https://raw.githubusercontent.com/seeren-training/Methodo/master/wiki/resources/class.png" align="left" width="50%"/>
 
-L'Entity Diagram puis enfin le diagramme de classe en ne représentant pas les tables intermédiaires complètent l'analyse du besoin et son les premiers éléments conceptuels.
+L'Entity Diagram puis enfin le diagramme de classe en ne représentant pas les tables intermédiaires complètent l'analyse du besoin et sont les premiers éléments conceptuels.
 
 ___
 
