@@ -12,6 +12,6 @@ ___
 
 ## Support de cours
 
-* [Wiki](https://github.com/seeren-training/UML/wiki)
+* [Wiki](https://github.com/seeren-training/Methodo/wiki)
 
 ___
