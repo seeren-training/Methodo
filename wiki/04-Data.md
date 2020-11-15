@@ -16,7 +16,7 @@ Les règles métier ou de gestion sont des déclarations de haut niveau structur
 
 ### 🏷️ **Déterminer un sujet**
 
-* Chaque *Utilisateur*
+* *Utilisateur*
 
 ### 🏷️ **Déterminer sa structure**
 
@@ -37,7 +37,7 @@ ___
 
 👨🏻‍💻 Manipulation
 
-De façon collégiale, rédigez vos règles de gestion en commentaire markdown dans un diagramme d'entité.
+De façon collégiale, rédigez vos règles de gestion en  markdown dans un fichier "buisness-rules.md" que vous attachez au final en commentaire sur un diagramme d'entité.
 
 ___
 
@@ -59,13 +59,13 @@ ___
 
 👨🏻‍💻 Manipulation
 
-De façon collégiale, rédigez votre dictionnaire de données.
+De façon collégiale, rédigez votre dictionnaire de données au même format que les règles de métier et attachés de la même façon.
 
 ___
 
 ## 📑 Diagrammes
 
-Les prochaines étapes correspondent à créer le Model Conceptuel de Données sur lequel nous passons.
+Les prochaines étapes correspondent à créer le Model Conceptuel de Données sur lequel nous passons parce qu'étudié et appartenant à Merise.
 
 <img src="https://raw.githubusercontent.com/seeren-training/Methodo/master/wiki/resources/entity.png" align="left" width="50%"/>
 
@@ -77,6 +77,6 @@ ___
 
 👨🏻‍💻 Manipulation
 
-Pendant que le dictionnaire de donnée est créée, créez en parallèle le diagramme d'entité puis enfin le diagramme de classe.
+Créez en parallèle le diagramme d'entité et le diagramme de classe. Les documents produits doivent être accessibles à tous.
 
 ___

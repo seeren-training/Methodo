@@ -55,7 +55,7 @@ ___
 
 👨🏻‍💻 Manipulation
 
-Ajouter des **requirements** sur votre diagramme de contraintes pour exprimer vos choix techniques. Différenciez les requirements, stories, epic des stéréotypes, organisation, couleurs.
+Ajouter des **requirements** sur votre diagramme de contraintes pour exprimer vos choix techniques. Différenciez les requirements, stories, epic avec des stéréotypes, organisation, couleurs.
 
 ___
 

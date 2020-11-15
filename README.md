@@ -1,4 +1,4 @@
-# UML
+# Methodo
 
 ## Durée
 
