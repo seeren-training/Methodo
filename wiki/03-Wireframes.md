@@ -36,7 +36,7 @@ L'objectif d'une wireframe n'est pas d'exposer la charte graphique, les images d
 
 Il existe de nombreux outils gratuit, en client lourd ou léger. Je vous conseille pour sa gratuité et sa simplicité le logiciel Pencil.
 
-> https://pencil.evolus.vn/
+[Pencil](https://pencil.evolus.vn/)
 
 ![image](https://raw.githubusercontent.com/seeren-training/Methodo/master/wiki/resources/pencil.png)
 
@@ -67,7 +67,9 @@ ___
 
 Pour normer la mise en relation des frames et posséder une overview reliée aux wireframes il est raisonnable de conclure par un diagramme de navigation.
 
-Il n'existe pas de diagrammes de navigation en UML, nous allons utiliser le flow chart diagramme pour cette représentation. Il est également d'utiliser le flow chart diagram ou le diagramme d'activité en utilisant un référentiel de modèles CF: [Detailing User Interface Navigation](https://www.ibm.com/developerworks/rational/library/4697.html)
+Il n'existe pas de diagrammes de navigation en UML, nous allons utiliser le flow chart diagramme pour cette représentation. Il est également d'utiliser le flow chart diagram ou le diagramme d'activité en utilisant un référentiel de modèles CF.
+
+[Detailing User Interface Navigation](https://www.ibm.com/developerworks/rational/library/4697.html)
 
 ![image](https://raw.githubusercontent.com/seeren-training/Methodo/master/wiki/resources/flowchart.png)
 

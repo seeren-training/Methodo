@@ -1,4 +1,4 @@
-# Data
+# Conception
 
 * 🔖 **Conception Générale**
 * 🔖 **Conception détaillée**
@@ -62,7 +62,7 @@ La valeur de la modélisation chute et la qualité d'un développeur est mainten
 
 Des séquences complémentaires peuvent être utiliser pour affiner des concepts.
 
-> Ces séquences ne sont pas liés aux histoires utilisateurs mais aux contraintes de ces histoires utilisateurs. Ils expriment l'exécution nécessaire pour satisfaire une contrainte et il est souvent nécessaire de faire des allez retour avec le diagramme de classe pour ajouter des acteurs non anticipés.
+Ces séquences ne sont pas liés aux histoires utilisateurs mais aux contraintes de ces histoires utilisateurs. Ils expriment l'exécution nécessaire pour satisfaire une contrainte et il est souvent nécessaire de faire des allez retour avec le diagramme de classe pour ajouter des acteurs non anticipés.
 
 Ces séquences sont là pour palier l'évidence de concepts exprimés dans les contraintes comme par exemple l'échange de jeton pour autorisation, la gestion du CSRF, la mise en cache chez le client ou autre contraintes qui méritent d'être clarifiés.
 
@@ -87,5 +87,3 @@ ___
 👨🏻‍💻 Manipulation
 
 De façon individuelle, créez un diagramme d'activité pour détailler un message ou un concept.
-
-___

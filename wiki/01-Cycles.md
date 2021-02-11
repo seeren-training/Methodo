@@ -4,6 +4,10 @@
 * 🔖 **Cycle en V**
 * 🔖 **Itératif**
 
+___
+
+## 📑 Cascade
+
 La phase de conception et son traitement dépend du cycle de vie adopté.
 
 ___
@@ -12,15 +16,11 @@ ___
 
 Déterminez une thématique de projet à conceptualiser et formez des groupes de 3 personnes maximum. Il est possible que nous exploitions le résultat des différentes manipulations à venir.
 
-___
-
-## 📑 Cascade
-
 Issue du secteur de la construction, l'approche linéaire ne permet pas de maîtriser les coûts et les délais.
 
 > Le produit est conçu et spécifié de sorte à pouvoir être réalisé et l'anticipation est importante.
 
-![image](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/01/05-Waterfall.jpg)
+![image](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/01/05-Waterfall.png)
 
 ___
 
@@ -30,17 +30,16 @@ Issue du secteur industriel, l'approche linéaire est complétée par une mise e
 
 > Il y a un risque important de se rendre compte au cours de la mise en œuvre que les spécifications initiales étaient incomplètes, fausses, ou irréalisables.
 
+![image](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/01/06-Cycle-en-V.png)
+
 > Il y a également un risque de voir de nouvelles fonctionnalités requise par les clients
 
-![image](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/01/06-Cycle-en-V.jpg)
 
 ___
 
 ## 📑 Itératif
 
 Représentée avec un cercle proposant une approche itérative, chaque session de travail possède une durée fixe et n'a comme objectif que de fournir un incrément, une étape vers le produit livrable.
-
-![image](https://raw.githubusercontent.com/seeren-training/Methodo/master/wiki/resources/cycle-iteratif.jpg)
 
 ### 🏷️ **UML**
 
@@ -49,4 +48,3 @@ Dans ce cadre, l'utilisation d'UML est propre à chaque projet. UML est un langa
 ![image](https://raw.githubusercontent.com/seeren-training/Methodo/master/wiki/resources/uml-iteratif.jpg)
 
 Nous allons nous appuyer sur des formats complémentaires à UML pour parcourir des étapes de conception dans un cycle itératif.
-

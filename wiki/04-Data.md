@@ -16,18 +16,19 @@ Les règles métier ou de gestion sont des déclarations de haut niveau structur
 
 ### 🏷️ **Déterminer un sujet**
 
-* *Utilisateur*
+* Utilisateur
 
 ### 🏷️ **Déterminer sa structure**
 
-* Chaque *Utilisateur* possède
-    * Un Email
-    * Un mot de passe
-    * Des messages
+Chaque Utilisateur possède
+
+* Un Email
+* Un mot de passe
+* Des messages
 
 ### 🏷️ **Déterminer ses contraintes**
 
-|Chaque *Utilisateur* possède|Chaque *Utilisateur* peut|
+|Chaque Utilisateur possède|Chaque Utilisateur peut|
 |-|-|
 |Un Email|Être identifié par son email|
 |Un mot de passe|Se connecter/déconnecter|
@@ -49,7 +50,7 @@ Vos règles de gestion ont déterminé des sujets qui deviennent des tables, des
 
 |Nom|Type|Taille|Contrainte|Calcul|
 |-|-|-|-|-|
-|**user**|-|-|-|-|
+|user|-|-|-|-|
 |id|INT|11|PK|+1|
 |email|VARCHAR|128|U|-|
 |password|CHAR|64|U|-|
@@ -67,9 +68,9 @@ ___
 
 Les prochaines étapes correspondent à créer le Model Conceptuel de Données sur lequel nous passons parce qu'étudié et appartenant à Merise.
 
-<img src="https://raw.githubusercontent.com/seeren-training/Methodo/master/wiki/resources/entity.png" align="left" width="50%"/>
+![image](https://raw.githubusercontent.com/seeren-training/Methodo/master/wiki/resources/entity.png)
 
-<img src="https://raw.githubusercontent.com/seeren-training/Methodo/master/wiki/resources/class.png" align="left" width="50%"/>
+![image](https://raw.githubusercontent.com/seeren-training/Methodo/master/wiki/resources/class.png)
 
 L'Entity Diagram puis enfin le diagramme de classe en ne représentant pas les tables intermédiaires complètent l'analyse du besoin et sont les premiers éléments conceptuels.
 
@@ -78,5 +79,3 @@ ___
 👨🏻‍💻 Manipulation
 
 Créez en parallèle le diagramme d'entité et le diagramme de classe. Les documents produits doivent être accessibles à tous.
-
-___
