@@ -78,7 +78,3 @@ ___
 👨🏻‍💻 Manipulation
 
 Créez votre flow chart diagramme de façon collégiale, reliez le à votre diagramme de contraintes et reliez chaque wireframe au flow chart diagramme avec le link.
-
-___
-
-

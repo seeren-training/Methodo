@@ -1,4 +1,4 @@
-# Methodo
+# Methodo - Itération et méthodologie de conception
 
 ## Durée
 
