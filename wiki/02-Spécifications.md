@@ -21,7 +21,7 @@ Une histoire utilisateur est une brèves exigences ou requêtes écrites du poin
 
 > Une histoire utilisateur appartient au responsable produit qui est le seul à pouvoir la rédiger et la prioriser dans le product backlog.
 
-![image](https://raw.githubusercontent.com/seeren-training/Agile/master/wiki/resources/03/07-User-Story.png)
+![image](https://raw.githubusercontent.com/seeren-training/Gestion-Agile/master/wiki/resources/03/07-User-Story.png)
 
 > Une user story doit être priorisée, évaluée, estimée, un retour sur investissement doit être calculé puis elle doit être découpée en tache, mais ce n'est pas notre préoccupation.
 
